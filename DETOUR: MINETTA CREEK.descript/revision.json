@@ -1,0 +1,62 @@
+{
+  "default_scene_analysis" : {
+    "vo_duration" : 174.2645804988658,
+    "vo_coverage" : 0,
+    "stops_over_two_minutes" : 0,
+    "est_vo_less_walking_time" : 4008.959916130067,
+    "overstuffed_paths" : 1,
+    "est_duration" : 4183.224496628934,
+    "avg_stop_duration" : 4.501050398654082,
+    "nav_image_count" : 43,
+    "non_hidden_segment_count" : 50,
+    "total_distance" : 4880.647813400157
+  },
+  "id" : "713bbb18-5e0d-4d6f-8fd8-f3fbd0a2ddce",
+  "created_by" : {
+    "last_name" : "Halper",
+    "email" : "bhalps@aol.com",
+    "id" : "8cdd2e03-2aba-448a-99d4-ed222b539aa0",
+    "first_name" : "Robert",
+    "role" : ""
+  },
+  "created_at" : "2017-03-17T18:47:31.447Z",
+  "bundle_version" : "4.0.0",
+  "path_points" : [
+    {
+      "latitude" : 37.7777818699041,
+      "longitude" : -122.423101754294
+    },
+    {
+      "latitude" : 37.7786886954765,
+      "longitude" : -122.423290961712
+    },
+    {
+      "latitude" : 37.7788832153795,
+      "longitude" : -122.421786269063
+    },
+    {
+      "latitude" : 37.7779782367747,
+      "longitude" : -122.421582889839
+    }
+  ],
+  "message" : "add on map",
+  "tour" : {
+    "published" : false,
+    "name" : "DETOUR\/ MINETTA CREEK",
+    "venues" : [
+
+    ],
+    "id" : "f13f55ea-31c2-49ec-ba31-f97fdb7e49a9",
+    "duration" : 0,
+    "url" : "\/tours\/f13f55ea-31c2-49ec-ba31-f97fdb7e49a9"
+  },
+  "tags" : [
+    "processing-testing"
+  ],
+  "contents" : {
+    "assets" : {
+
+    }
+  },
+  "revision_number" : 5
+}

@@ -1,0 +1,43 @@
+{
+  "mainWindowController" : {
+    "visibleSidebarState" : "sceneLibrary",
+    "mapCollapsed" : false,
+    "sequencerViewController" : {
+      "showAmbience" : true,
+      "showMusic" : true,
+      "showSoundEffects" : true,
+      "showImages" : false
+    },
+    "waveformEditorCollapsed" : true,
+    "currentImageCollapsed" : false,
+    "mapViewController" : {
+      "showsCursors" : true,
+      "mapType" : "Standard",
+      "showsDecentralAnnotations" : true,
+      "camera" : {
+        "heading" : -0,
+        "id" : "0x7ff470e48a30",
+        "centerCoordinate" : [
+          40.73886790851942,
+          -74.00377897166666
+        ],
+        "type" : "MKMapCamera",
+        "pitch" : 0,
+        "altitude" : 5413.477254922483
+      },
+      "visibleFloorPlans" : [
+
+      ],
+      "showsUserLocation" : false
+    },
+    "sequencerCollapsed" : false
+  },
+  "defaultWalkingSpeedMilesPerHour" : 2.7,
+  "concurrentASRJobs" : 10,
+  "annotationsController" : {
+    "lastReadSequenceNumbers" : [
+
+    ]
+  },
+  "recognitionProvider" : "decentralParallel"
+}
